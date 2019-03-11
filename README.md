@@ -1,16 +1,19 @@
-# two_way_scroll
+# Two-way scroll
 
-A unique way to scroll through profiles, content and catalog
+A simple flutter app that demonstrate a unique way to scroll through profiles, content and catalog
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project simply fire the command ```flutter run --release```
 
-A few resources to get you started if this is your first Flutter project:
+## Poject Definition
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+This app aims to browse a catalog or profile listing in a unique way using two scroll views.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Authors
+
+* **Sumeet Rukeja** - [YudizSumeet](https://github.com/YudizSumeet)
+
+## License
+
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
