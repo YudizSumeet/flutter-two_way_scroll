@@ -12,8 +12,8 @@ This app aims to browse a catalog or profile listing in a unique way using two s
 
 ## Authors
 
-* **Sumeet Rukeja** - [YudizSumeet](https://github.com/YudizSumeet)
+**Sumeet Rukeja** - [YudizSumeet](https://github.com/YudizSumeet)
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License - see the [LICENSE.md](https://github.com/YudizSumeet/flutter-two_way_scroll/blob/master/LICENSE) file for details
