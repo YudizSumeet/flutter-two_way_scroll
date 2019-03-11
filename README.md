@@ -6,9 +6,13 @@ A simple flutter app that demonstrate a unique way to scroll through profiles, c
 
 To run this project simply fire the command ```flutter run --release```
 
-## Poject Definition
+## Project Definition
 
 This app aims to browse a catalog or profile listing in a unique way using two scroll views.
+
+## Preview
+
+![](rich_scroll.gif)
 
 ## Authors
 
@@ -16,4 +20,4 @@ This app aims to browse a catalog or profile listing in a unique way using two s
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](https://github.com/YudizSumeet/flutter-two_way_scroll/blob/master/LICENSE) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE) file for details.
